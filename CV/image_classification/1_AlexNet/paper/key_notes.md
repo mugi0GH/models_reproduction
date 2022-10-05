@@ -13,6 +13,8 @@
 
 [AlexNet网络模型讲解搭建以及训练](https://www.php.cn/faq/479124.html)
 
+[手撕 CNN 经典网络之 AlexNet（理论篇）](https://zhuanlan.zhihu.com/p/467017218)
+
 ![AlexNet_archtechture](https://img-blog.csdnimg.cn/d430447fb35a46848890fc6b5cf04032.png)
 ![AlexNet_archtechture](https://img.php.cn/upload/article/000/000/062/3fe11b59a92e4a4d66f88618ed394f0b-2.png)
 ![AlexNet_archtechture](https://img.php.cn/upload/article/000/000/062/4a7e44b53651991bace6042ce48ef22e-3.png)
