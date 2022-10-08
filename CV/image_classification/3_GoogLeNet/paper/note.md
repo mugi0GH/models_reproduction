@@ -1,4 +1,5 @@
 # [深度学习：详细说明GoogleNet网络结构](https://www.guyuehome.com/34487)
+# [卷积神经网络模型之——GoogLeNet网络结构与代码实现](https://blog.csdn.net/weixin_43598687/article/details/125626247)
 
 一般来说，提升网络性能最直接的办法就是增加网络深度和宽度，深度指网络层次数量、宽度指神经元数量。但这种方式存在以下问题：
 
